@@ -36,7 +36,7 @@ const OutputField: React.FC<OutputFieldProps> = ({ editorRef, language }) => {
         color="neutral"
         className='bg-gray-800 w-[12em] text-white font-sans font-light h-10 hover:bg-gray-700'
         onClick={runCode}
-        variant="soft">Complie and Execute </Button>
+        variant="soft">Compile and Execute </Button>
     </div>
     </div>
   );
